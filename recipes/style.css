@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.image {
+    height: auto;
+    width: 800px;
+}
+
+.header {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: red;
+    color: white;
+}
+
+.header.minor {
+    background-color: white;
+    color: red;
+}
+
+#ingredients {
+    background-color: black;
+    color: cyan;
+    font-weight: bold;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+}
